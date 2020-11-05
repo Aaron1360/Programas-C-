@@ -17,7 +17,7 @@ Practicas 1 Análisis y diseño de programas
 
 7.-Generar un algoritmo que permita imprimir los números de la serie de Fibonacci, perimtiendo que se ingrese el número de elementos a desplegar N, como valor entero y positivo.      Recordar que la serie de Fibonacci es: 0,1,1,2,3,5,8,13,21,34,...
 
-8.-enerar un algoritmo que permita obtener y desplegar los N primeros números primos, en donde N es un número entero positivo, el cual ingresa el usuario. Recordar que los números    primos son aquellos que solo son divisibles entre si mismos y entre 1. Si N=8, el programa debe mostrar 2,3,5,7,11,13,17,19.
+8.-Generar un algoritmo que permita obtener y desplegar los N primeros números primos, en donde N es un número entero positivo, el cual ingresa el usuario. Recordar que los números    primos son aquellos que solo son divisibles entre si mismos y entre 1. Si N=8, el programa debe mostrar 2,3,5,7,11,13,17,19.
 
 9.-Generar un algoritmo que permita Imprimir los N números de la Serie de Padovan , donde N es un número entero positivo que el usuario debe ingresar para obtener los valores de      la serie.
 
